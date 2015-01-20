@@ -7,7 +7,7 @@ Downloads all chapters of a manga from starkana.com. Is a shell script and works
 3. the sed utility.
 
 ## Steps:-
-1. go to the main page of the manga you want to download. will look like       >http://starkana.jp/manga/starting-alphabet/Manga-name 
+1. go to the main page of the manga you want to download. will look like > http://starkana.jp/manga/starting-alphabet/Manga-name 
   which will contain the full list of manga chapters of that particular manga and copy that address.
 2. Open the terminal and go to the folder you want the manga downloaded in.
 3. Get the webpage souce using: 
